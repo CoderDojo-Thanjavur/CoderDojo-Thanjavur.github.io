@@ -1,0 +1,20 @@
+/* custom style file for admin panel style
+*/
+
+.woocommerce .return-to-shop .wc-backward{
+    background: #53a92c;
+}
+
+.woocommerce .return-to-shop .wc-backward:hover{
+    background: #ffffff;
+}
+
+.woocommerce-cart-form .coupon .button:hover{
+    background-color: #53a92c;
+}
+.woocommerce .cart-collaterals .wc-proceed-to-checkout a:hover{
+    background: #53a92c;
+}
+.woocommerce .cart-collaterals .wc-proceed-to-checkout a:hover {
+    background: #ffffff;
+}
